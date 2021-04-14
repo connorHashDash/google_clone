@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+}
+
+div.header {
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+	height: 4rem;
+}
+
+div.litems, div.ritems {
+	display: flex;
+}
+
+img.profile {
+	height: 2.3rem;
+	border-radius: 50%;
+}
+
+div.logo {
+	display:flex;
+	justify-content: center;
+}
+
+div.searchbar {
+	display:flex;
+	justify-content: center;
+}
+
+div.search-buttons {
+	display:flex;
+	justify-content: center;
+}
+
+div.footer {
+   position: fixed;
+   bottom: 0;
+}
+
+div.gap{
+	
+}
+
+div.footer {
+	display: flex;
+}
+
+div.lfitems {
+	display: flex;
+	
+}
